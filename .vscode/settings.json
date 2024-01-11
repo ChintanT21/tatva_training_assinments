@@ -1,4 +1,5 @@
 {
     "livePreview.showServerStatusNotifications": true,
-    "livePreview.tasks.runTaskWithExternalPreview": true
+    "livePreview.tasks.runTaskWithExternalPreview": true,
+    "livePreview.defaultPreviewPath": "/index.html"
 }
